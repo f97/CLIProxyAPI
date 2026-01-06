@@ -1,1 +1,1 @@
-web: cli-proxy-api
+web: CLIProxyAPI
