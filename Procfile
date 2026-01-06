@@ -1,1 +1,1 @@
-web: CLIProxyAPI
+web: ./CLIProxyAPI --config ./config.yaml
